@@ -3,6 +3,7 @@
 This notebook contains all the practice codes for Data Science, Machine Learning and Deep Learning.
 
 ## Tabs:
+  ### Linear Regression :
   Day 1 : Simple Linear Regression 
   
   Day 2 : Multiple Linear Regression
@@ -10,6 +11,9 @@ This notebook contains all the practice codes for Data Science, Machine Learning
   Day 3 : Linear Regression with Sklearn
   
   Day 4 : Real Life Example using Sklearn
+  
+  ### Logistic Regression :
+  Day 5 : Logistic Regression
 
 ## References :
 Data Science : https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/
