@@ -14,6 +14,9 @@ This notebook contains all the practice codes for Data Science, Machine Learning
   
   ### Logistic Regression :
   Day 5 : Logistic Regression
+  
+  ### KMeans Clustering :
+  Day 6 : KMeans Clustering 
 
 ## References :
 Data Science : https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/
