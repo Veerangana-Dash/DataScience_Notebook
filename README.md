@@ -19,8 +19,9 @@ This notebook contains all the practice codes for Data Science, Machine Learning
   Day 6 : KMeans Clustering 
   
   Day 7 : Clustering Exercises <br>
-            - Clustering Countries<br>
-            - Market Segregation<br>
+  
+  ### Mathematics :
+  Day 8 : Linear Algebra
 
 ## References :
 Data Science : https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/
