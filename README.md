@@ -22,6 +22,9 @@ This notebook contains all the practice codes for Data Science, Machine Learning
   
   ### Mathematics :
   Day 8 : Linear Algebra
+  
+  ### Deep Learning :
+  Day 9 : Basic Neural Network
 
 ## References :
 Data Science : https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/
