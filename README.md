@@ -27,6 +27,8 @@ This notebook contains all the fundamental and basics code for Data Science, Mac
     Day 9 : Basic Neural Network
     
     Day 10 : TensorFlow 
+    
+    Day 11 : MNIST Deep Neural Network
 
 ## References :
 Data Science : https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/
