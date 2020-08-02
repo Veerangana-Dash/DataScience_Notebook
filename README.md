@@ -31,6 +31,9 @@ This notebook contains all the fundamental and basics code for Data Science, Mac
     Day 11 : MNIST Deep Neural Network
     
     Day 12 : Business Case Model - AudioBooks Example
+  
+  ### Case Study :
+    Day 13 : Preprocessing Module for Absenteeism Data
 
 ## References :
 Data Science : https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/
